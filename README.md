@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Paulina Cerón
-A computer science studend at EAFIT University 
+ I'm Paulina Cerón
+
+ A computer science studend at EAFIT University 
 
 <!--
 **pauliceron/pauliceron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
